@@ -31,6 +31,7 @@ npm i @babel/core @babel/node @babel/preset-env --save-dev
 ***
 ### more
 
+https://note.com/knaka0209/n/n78ac5dc9db16
 
 ***
 

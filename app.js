@@ -6,10 +6,10 @@ var logger = require('morgan');
 var session = require('express-session');
 //
 var indexRouter = require('./routes/index');
-var tasksRouter = require('./routes/tasks');
+//var tasksRouter = require('./routes/tasks');
 var loginRouter = require('./routes/login');
 
-var apiRouter = require('./routes/api');
+//var apiRouter = require('./routes/api');
 
 var app = express();
 const expressLayouts = require('express-ejs-layouts');
