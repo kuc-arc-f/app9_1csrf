@@ -47,11 +47,11 @@ app.use(session({
 
 // route
 app.use('/', indexRouter);
-app.use('/tasks', tasksRouter );
+//app.use('/tasks', tasksRouter );
 app.use('/login', loginRouter);
 
 // api
-app.use('/api', apiRouter );
+//app.use('/api', apiRouter );
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
